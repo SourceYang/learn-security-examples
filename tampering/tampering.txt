@@ -1,0 +1,2 @@
+Tampering violates the Integrity property of the CIA.
+When tampering occurs, data or system configurations may be altered without permission, leading to loss of integrity.

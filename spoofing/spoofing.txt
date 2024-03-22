@@ -1,1 +1,4 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+
+Vulnerabilities are flaws or weaknesses in a system that could be exploited to violate the system's security policy.
+A secure version of a system prevents vulnerabilities by implementing security measures and controls designed to identify, manage and eliminate the risks. This includes input validation, encryption, user authoritation, etc.

@@ -2,3 +2,5 @@ Briefly explain the vulnerability and why the secure version prevents the vulner
 
 Vulnerabilities are flaws or weaknesses in a system that could be exploited to violate the system's security policy.
 A secure version of a system prevents vulnerabilities by implementing security measures and controls designed to identify, manage and eliminate the risks. This includes input validation, encryption, user authoritation, etc.
+
+Spoofing does not directly target the availability aspect of the CIA triad. However, some spoofing attacks might indirectly affect availability if the attacker uses their access to launch further attacks.
